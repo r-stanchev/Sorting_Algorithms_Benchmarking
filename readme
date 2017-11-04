@@ -1,0 +1,3 @@
+Created a program in C that generates random numeric data, copies it however many times it is necessary, then sorts those copies by using different sorting algorithms, compares the efficiency of these algorithms and finally visualizes the comparison for the user to see.
+
+To run the program, first make sure it is compiled by running "make" on the command line, then execute it using "./sort". After that just follow the on-screen instructions.
